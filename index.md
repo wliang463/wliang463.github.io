@@ -2,18 +2,12 @@
 
 ---
 
-### Category Name 1 
+### MCMC analysis of lunar gravity data
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+We detect gravity signal from subsurface Grand Canyon-sized features on the Moon. I use Markov chain Monte Carlo
+to constrain the depth, thickness, and widths of the structures.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![](https://ing.shields.10/badge/PyTorch-white?logo=pytorch)](#)
 
 ---
 
