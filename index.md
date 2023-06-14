@@ -1,6 +1,6 @@
 ## Data Science Portfolio
 
-Below is a compilation of results from **8 years of data analysis** using
+Below is a compilation of highlights from **8 years of data analysis** using
 <br>
 -Lunar GRAIL gravity+topography dataset (17 million data points)
 <br>
