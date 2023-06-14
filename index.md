@@ -2,7 +2,7 @@
 
 Below is a compilation of results from **8 years of data analysis** using
 <br>
--Lunar GRAIL gravity dataset (17 million data points)
+-Lunar GRAIL gravity+topography dataset (17 million data points)
 <br>
 -Mars Rover images (1000+ 1200x1200)
 
