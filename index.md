@@ -1,5 +1,9 @@
 ## Data Science Portfolio
 
+Below is a compilation of results from **8 years of data analysis** using
+-Lunar GRAIL gravity dataset (17 million data points)
+-Mars Rover images (1000+ 1200x1200)
+
 ---
 
 ### MCMC analysis of lunar gravity data
