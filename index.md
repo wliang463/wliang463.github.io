@@ -7,7 +7,13 @@
 We detect gravity signal from subsurface Grand Canyon-sized features on the Moon. I use Markov chain Monte Carlo
 to constrain the depth, thickness, and widths of the structures.
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-white?style=flat-square&logo=PyTorch)](https://pytorch.org/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![matplotlib](https://img.shields.io/badge/matplotlib-8CAAE6?style=flat-square&logo=matplotlib)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter)
+![Markov Chain Monte Carlo](https://img.shields.io/badge/MCMC-68b030?style=flat-square)
+![Bayesian Statistics](https://img.shields.io/badge/Bayesian_Statistics-FF4500?style=flat-square)
 
 ---
 
