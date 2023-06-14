@@ -21,7 +21,12 @@ to constrain the depth, thickness, and widths of the structures.
 ![Markov Chain Monte Carlo](https://img.shields.io/badge/MCMC-68b030?style=flat-square)
 ![Bayesian Statistics](https://img.shields.io/badge/Bayesian_Statistics-FF4500?style=flat-square)
 
-<a href="https://wliang463.github.io/lunar_data_analysis/Analysis_of_Lunar_Gravity_Dataset.html">See Demo Jupyter Notebook</a> 
+<a href="https://wliang463.github.io/lunar_data_analysis/Analysis_of_Lunar_Gravity_Dataset.html">Demo Jupyter Notebook</a> 
+<br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103522000951">Publication</a> 
+<br>
+<a href="https://github.com/wliang463/lunar_data_analysis">Github Repository</a> 
+
 
 ---
 
