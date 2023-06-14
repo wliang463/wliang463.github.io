@@ -14,8 +14,8 @@ We detect gravity signal from subsurface Grand Canyon-sized features on the Moon
 to constrain the depth, thickness, and widths of the structures.
 
 <p float="left">
-  <img src="/images/profile_pic.png" width="50%" />
-  <img src="/images/profile_pic.png" width="50%" /> 
+  <img src="/images/moon_gravity_map.png" width="50%" />
+  <img src="/images/moon_gravity_map.png" width="50%" /> 
 </p>
 
 
