@@ -19,7 +19,7 @@ to constrain the depth, thickness, and widths of the structures.
 ![matplotlib](https://img.shields.io/badge/matplotlib-8CAAE6?style=flat-square&logo=matplotlib)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter)
 ![Markov Chain Monte Carlo](https://img.shields.io/badge/MCMC-68b030?style=flat-square)
-![Bayesian Statistics](https://img.shields.io/badge/Bayesian_Statistics-FF4500?style=flat-square)
+![Time-Series Analysis](https://img.shields.io/badge/Time--Series_Analysis-ff69b4?style=flat-square)
 
 <a href="https://wliang463.github.io/lunar_data_analysis/Analysis_of_Lunar_Gravity_Dataset.html">Demo Jupyter Notebook</a> 
 <br>
