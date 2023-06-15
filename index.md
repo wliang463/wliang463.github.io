@@ -39,6 +39,8 @@ The traditional way of identifying meteor impact sites (craters) is to count the
 and implemented an algorithm that identifies crater patterns in lunar gravity maps, enabling a 500% increase
 in efficiency.
 
+<img src="/images/topo_comp_csfd.eps" style="width: 99%" />
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks)
 [![Algorithm Development](https://img.shields.io/badge/Algorithm_Development-blue.svg)]()
 [![Pattern Recognition](https://img.shields.io/badge/Pattern_Recognition-green.svg)]()
