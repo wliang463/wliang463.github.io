@@ -15,7 +15,7 @@ to constrain the depth, thickness, and widths of the structures.
 
 <p float="left">
   <img src="/images/moon_gravity_map.png" style="width: 40%; vertical-align: middle;" />
-  <img src="/images/mcmc_error.png" style="width: 41%; vertical-align: middle;" /> 
+  <img src="/images/mcmc_error.png" style="width: 45%; vertical-align: middle;" /> 
 </p>
 
 
