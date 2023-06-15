@@ -15,7 +15,7 @@ to constrain the depth, thickness, and widths of the structures.
 
 <p float="left">
   <img src="/images/moon_gravity_map.png" width="30%" />
-  <div style="height:1px;"></div>
+  <div style="height:0.1px;"></div>
   <img src="/images/mcmc_error.png" width="30%" /> 
 </p>
 
