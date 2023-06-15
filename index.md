@@ -61,7 +61,7 @@ different times in day (for example 9am vs 5pm). With this, we are able to deter
 and constrain what minerals are present.
 
 <p align="center">
-  <img src="/images/mars_surface.png" style="width: 49%" />
+  <img src="/images/mars_surface.jpg" style="width: 49%" />
   <img src="/images/sso_plot.png" style="width: 49%" /> 
 </p>
 
