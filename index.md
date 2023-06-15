@@ -13,10 +13,10 @@ Below is a compilation of highlights from **8 years of data analysis** using
 We detect gravity signal from subsurface Grand Canyon-sized features on the Moon. I use Markov chain Monte Carlo
 to constrain the depth, thickness, and widths of the structures.
 
-<p float="left">
-  <img src="/images/moon_gravity_map.png" style="width: 40%; vertical-align: middle;" />
-  <img src="/images/mcmc_error.png" style="width: 45%; vertical-align: middle;" /> 
-</p>
+<div style="display: flex; align-items: center;">
+  <img src="/images/moon_gravity_map.png" style="width: 40%;" />
+  <img src="/images/mcmc_error.png" style="width: 41%;" /> 
+</div>
 
 
 
