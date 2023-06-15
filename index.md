@@ -8,7 +8,7 @@ Below is a compilation of highlights from **8 years of data analysis** using
 
 ---
 
-### MCMC analysis of lunar gravity data
+### MCMC Analysis of Lunar Gravity Data
 
 We detect gravity signal from subsurface Grand Canyon-sized features on the Moon. I use Markov chain Monte Carlo
 to constrain the depth, thickness, and widths of the structures.
@@ -33,7 +33,7 @@ to constrain the depth, thickness, and widths of the structures.
 
 ---
 
-### Automated Pattern Recognition Algorithm for lunar gravity data
+### Automated Pattern Recognition Algorithm for Lunar Gravity Data
 
 The traditional way of identifying meteor impact sites (craters) is to count them by hand. I designed
 and implemented an algorithm that identifies crater patterns in lunar gravity maps, enabling a 500% increase
@@ -52,4 +52,24 @@ in efficiency.
 <a href="https://github.com/wliang463/missing_craters_rings">Github Repository</a> 
 
 ---
+
+### Photometric Analysis of Mars Rover Image Data
+
+Some minerals (for example diamond vs rust) are more/less bright than other minerals when you shine a light on it. 
+I analyzed how the martian surface reflected different amounts of light using images of the surface taken at 
+different times in day (for example 9am vs 5pm). With this, I am able to determine the physical properties of the surface,
+and constrain what minerals are present.
+
+![MATLAB](https://img.shields.io/badge/MATLAB-%23017ACC?style=flat-square&logo=Mathworks&logoColor=white)
+
+![Perl](https://img.shields.io/badge/Perl-%2349457E?style=flat-square&logo=Perl&logoColor=white)
+
+![Model Validation](https://img.shields.io/badge/Model%20Validation-%2331B8FF?style=flat-square&logo=Checkmarx&logoColor=white)
+
+![Algorithm Development](https://img.shields.io/badge/Algorithm%20Development-%2303569B?style=flat-square&logo=Algorithms&logoColor=white)
+
+![Data Pipeline Design](https://img.shields.io/badge/Data%20Pipeline%20Design-%23FF7C37?style=flat-square&logo=ApacheAirflow&logoColor=white)
+
+![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional%20Collaboration-%230082C6?style=flat-square&logo=MicrosoftTeams&logoColor=white)
+
 
