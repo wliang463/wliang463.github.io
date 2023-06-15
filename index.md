@@ -16,8 +16,6 @@ to constrain the depth, thickness, and widths of the structures.
 <img src="/images/moon_gravity_map.png" style="width: 99%" />
 <img src="/images/mcmc_error.png" style="width: 85%" /> 
 
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
@@ -35,13 +33,18 @@ to constrain the depth, thickness, and widths of the structures.
 
 ---
 
-### Category Name 2
+### Automated Pattern Recognition Algorithm for lunar gravity data
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+The traditional way of identifying meteor impact sites (craters) is to count them by hand. I designed
+and implemented an algorithm that identifies crater patterns in lunar gravity maps, enabling a 500% increase
+in efficiency.
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks)
+[![Algorithm Development](https://img.shields.io/badge/Algorithm_Development-0a0a0a.svg)]()
+[![Pattern Recognition](https://img.shields.io/badge/Pattern_Recognition-0a0a0a.svg)]()
+[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-0a0a0a.svg)]()
+[![Automated Detection](https://img.shields.io/badge/Automated_Detection-0a0a0a.svg)]()
+
 
 ---
 
