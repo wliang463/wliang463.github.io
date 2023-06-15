@@ -108,7 +108,7 @@ to the farside highlands as hypothetical processes that could have resulted in t
 <img src="/images/new_cv24.png" style="width: 99%" />
 
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-%2300599C?style=flat-square&logoColor=white)
-![Mathematical Modeling](https://img.shields.io/badge/Mathematical_Modeling-%23FCA121?style=flat-square&logoColor=white)
+![Numerical Modeling](https://img.shields.io/badge/Numerical_Modeling-%235012B1?style=flat-square&logoColor=white)
 ![Data Manipulation](https://img.shields.io/badge/Data_Manipulation-%23A30000?style=flat-square&logoColor=white)
 
 <a href="https://www.hou.usra.edu/meetings/lpsc2022/pdf/1611.pdf">Conference; Paper under submission</a> 
