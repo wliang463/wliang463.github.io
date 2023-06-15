@@ -15,7 +15,7 @@ to constrain the depth, thickness, and widths of the structures.
 
 <div style="display: flex; align-items: center;">
   <img src="/images/moon_gravity_map.png" style="width: 40%;" />
-  <img src="/images/mcmc_error.png" style="width: 41%;" /> 
+  <img src="/images/mcmc_error.png" style="width: 45%;" /> 
 </div>
 
 
