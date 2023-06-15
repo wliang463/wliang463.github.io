@@ -87,10 +87,11 @@ and constrain what minerals are present.
 
 I was tasked to develop a new GUI software "new_cv24" that would allow a user to load in Photometry QUBs, an extensive data file comprised of ~50 images along with coordinate maps.  The GUI enables users to overlay different images in the QUB, delineate regions of interest on the images, and extract information from all 50 images within the QUB into an ASCII file for further data analysis.
 
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%230077B5.svg?&style=for-the-badge&logoColor=white)
-![GUI Design](https://img.shields.io/badge/GUI%20Design-%23F37626.svg?&style=for-the-badge&logoColor=white)
-![Image Processing](https://img.shields.io/badge/Image%20Processing-%23B7B5E4.svg?&style=for-the-badge&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7C00.svg?&style=for-the-badge&logoColor=white)
-![Data Extraction and Manipulation](https://img.shields.io/badge/Data%20Extraction%20and%20Manipulation-%2382C366.svg?&style=for-the-badge&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%230077B5.svg?&style=flat-square&logoColor=white)
+![GUI Design](https://img.shields.io/badge/GUI%20Design-%23F37626.svg?&style=flat-square&logoColor=white)
+![Image Processing](https://img.shields.io/badge/Image%20Processing-%23B7B5E4.svg?&style=flat-square&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7C00.svg?&style=flat-square&logoColor=white)
+![Data Extraction and Manipulation](https://img.shields.io/badge/Data%20Extraction%20and%20Manipulation-%2382C366.svg?&style=flat-square&logoColor=white)
+
 
 
