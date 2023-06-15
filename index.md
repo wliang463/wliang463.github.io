@@ -40,10 +40,10 @@ and implemented an algorithm that identifies crater patterns in lunar gravity ma
 in efficiency.
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks)
-[![Algorithm Development](https://img.shields.io/badge/Algorithm_Development-0a0a0a.svg)]()
-[![Pattern Recognition](https://img.shields.io/badge/Pattern_Recognition-0a0a0a.svg)]()
-[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-0a0a0a.svg)]()
-[![Automated Detection](https://img.shields.io/badge/Automated_Detection-0a0a0a.svg)]()
+[![Algorithm Development](https://img.shields.io/badge/Algorithm_Development-blue.svg)]()
+[![Pattern Recognition](https://img.shields.io/badge/Pattern_Recognition-green.svg)]()
+[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-red.svg)]()
+[![Automated Detection](https://img.shields.io/badge/Automated_Detection-orange.svg)]()
 
 
 ---
