@@ -10,8 +10,7 @@ Below is a compilation of highlights from **8 years of data analysis** using
 
 ### MCMC Analysis of Anomalies in Lunar Gravity Data
 
-We detect gravity signal from subsurface Grand Canyon-sized features on the Moon. I use Markov chain Monte Carlo
-to constrain the depth, thickness, and widths of the structures.
+Analysis of the lunar gravity dataset reveals anomalous structures likely from subsurface Grand Canyon-sized features. I use Markov chain Monte Carlo to constrain the depth, thickness, and widths of the structures.
 
 <img src="/images/moon_gravity_map.png" style="width: 99%" />
 <img src="/images/mcmc_error.png" style="width: 85%" /> 
@@ -99,3 +98,19 @@ I was tasked to develop a new GUI software "new_cv24" that would allow a user to
 <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103518305396">Unfortunately, the code has not yet been cleared for public release.</a> 
 
+---
+
+### Numerical Modeling of Heat and Topographical Diffusion on the Moon
+
+Analysis of the lunar gravity data shows a lack of craters in the nearside. We model heat and topographical diffusion
+to the farside highlands as hypothetical processes that could have resulted in the deficit.
+
+<img src="/images/new_cv24.png" style="width: 99%" />
+
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-%2300599C?style=flat-square&logoColor=white)
+![Mathematical Modeling](https://img.shields.io/badge/Mathematical_Modeling-%23FCA121?style=flat-square&logoColor=white)
+![Data Manipulation](https://img.shields.io/badge/Data_Manipulation-%23A30000?style=flat-square&logoColor=white)
+
+<a href="https://www.hou.usra.edu/meetings/lpsc2022/pdf/1611.pdf">Conference; Paper under submission</a> 
+<br>
+<a href="https://github.com/wliang463/missing_craters_rings">Github Repository</a> 
