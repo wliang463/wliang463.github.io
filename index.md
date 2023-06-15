@@ -43,10 +43,11 @@ in efficiency.
 [![Algorithm Development](https://img.shields.io/badge/Algorithm_Development-blue.svg)]()
 [![Pattern Recognition](https://img.shields.io/badge/Pattern_Recognition-green.svg)]()
 [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-red.svg)]()
-[![Automated Detection](https://img.shields.io/badge/Automated_Detection-orange.svg)]()
+![Automated Detection](https://img.shields.io/badge/Automated_Detection-orange.svg)
 
 <a href="https://www.hou.usra.edu/meetings/lpsc2022/pdf/1611.pdf">Conference Abstract; Paper is under submission</a> 
 <br>
 <a href="https://github.com/wliang463/missing_craters_rings">Github Repository</a> 
+
 ---
 
