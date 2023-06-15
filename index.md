@@ -56,8 +56,8 @@ in efficiency.
 ### Photometric Analysis of Mars Rover Image Data
 
 Some minerals (for example diamond vs rust) are more/less bright than other minerals when you shine a light on it. 
-I analyzed how the martian surface reflected different amounts of light using images of the surface taken at 
-different times in day (for example 9am vs 5pm). With this, I am able to determine the physical properties of the surface,
+We analyzed how the martian surface reflected different amounts of light using images of the surface taken at 
+different times in day (for example 9am vs 5pm). With this, We are able to determine the physical properties of the surface,
 and constrain what minerals are present.
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23017ACC?style=flat-square&logo=Mathworks&logoColor=white)
