@@ -60,6 +60,9 @@ We analyzed how the martian surface reflected different amounts of light using i
 different times in day (for example 9am vs 5pm). With this, we are able to determine the physical properties of the surface,
 and constrain what minerals are present.
 
+<img src="/images/mars_surface.png" style="width: 99%" />
+<img src="/images/sso_plot.png" style="width: 85%" /> 
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23017ACC?style=flat-square&logo=Mathworks&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-%2349457E?style=flat-square&logo=Perl&logoColor=white)
 ![Model Validation](https://img.shields.io/badge/Model%20Validation-%2331B8FF?style=flat-square&logo=Checkmarx&logoColor=white)
