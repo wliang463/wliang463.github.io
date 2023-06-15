@@ -67,4 +67,8 @@ and constrain what minerals are present.
 ![Data Pipeline Design](https://img.shields.io/badge/Data%20Pipeline%20Design-%23FF7C37?style=flat-square&logo=ApacheAirflow&logoColor=white)
 ![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional%20Collaboration-%230082C6?style=flat-square&logo=MicrosoftTeams&logoColor=white)
 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103518305396">Publication</a> 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103518305396">Unfortunately, the code has not yet been cleared for public release.</a> 
+
+
 
