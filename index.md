@@ -16,9 +16,8 @@ Analysis of the lunar gravity dataset reveals anomalous structures likely from s
   <img src="/images/moon_gravity_map.png" style="width: 49%" />
   <img src="/images/earth_gravity.png" style="width: 49%" /> 
 </p>
-<p align="center">
-  <img src="/images/mcmc_error.png" style="width: 85%" /> 
-</p>
+
+<img src="/images/mcmc_error.png" style="width: 85%" /> 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas)
