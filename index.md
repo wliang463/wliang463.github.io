@@ -105,7 +105,7 @@ I was tasked to develop a new GUI software "new_cv24" that would allow a user to
 Analysis of the lunar gravity data shows a lack of craters in the nearside. We model heat and topographical diffusion
 to the farside highlands as hypothetical processes that could have resulted in the deficit.
 
-<img src="/images/new_cv24.png" style="width: 99%" />
+<img src="/images/thermal_annealing.png" style="width: 99%" />
 
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-%2300599C?style=flat-square&logoColor=white)
 ![Numerical Modeling](https://img.shields.io/badge/Numerical_Modeling-%235012B1?style=flat-square&logoColor=white)
