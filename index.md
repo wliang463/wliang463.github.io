@@ -13,6 +13,10 @@ Below is a compilation of highlights from my **8 years of data analysis** using
 Analysis of the lunar gravity dataset reveals anomalous structures likely from subsurface Grand Canyon-sized features. I use Markov chain Monte Carlo to constrain the depth, thickness, and widths of the structures.
 
 <img src="/images/moon_gravity_map.png" style="width: 99%" />
+<p align="center">
+  <img src="/images/moon_gravity_map.jpg" style="width: 49%" />
+  <img src="/images/earth_gravity.png" style="width: 49%" /> 
+</p>
 <img src="/images/mcmc_error.png" style="width: 85%" /> 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python)
