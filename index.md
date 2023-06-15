@@ -85,7 +85,7 @@ and constrain what minerals are present.
 
 ### Graphical User Interface (GUI) Development to Analyze Mars Rover Data
 
-I was tasked to develop a new GUI software "new_cv24" that would allow a user to load in Photometry QUBs, an extensive data file comprised of ~50 images along with coordinate maps.  The GUI enables users to overlay different images in the QUB, delineate regions of interest on the images, and extract information from all 50 images within the QUB into an ASCII file for further data analysis.
+I was tasked to develop a new GUI software "new_cv24" that would allow a user to load in Photometry QUBs, an extensive data file comprised of ~50 Mars rover images along with coordinate maps.  The GUI enables users to overlay different images in the QUB, select regions of interest on the images, and extract information from all 50 images within the QUB into an ASCII file for further data analysis.
 
 <img src="/images/new_cv24.png" style="width: 89%" />
 
