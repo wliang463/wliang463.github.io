@@ -68,6 +68,7 @@ and constrain what minerals are present.
 ![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional%20Collaboration-%230082C6?style=flat-square&logo=MicrosoftTeams&logoColor=white)
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103518305396">Publication</a> 
+<br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103518305396">Unfortunately, the code has not yet been cleared for public release.</a> 
 
 
