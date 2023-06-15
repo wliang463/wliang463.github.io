@@ -8,7 +8,7 @@ Below is a compilation of highlights from **8 years of data analysis** using
 
 ---
 
-### MCMC Analysis of Lunar Gravity Data
+### MCMC Analysis of Anomalies in Lunar Gravity Data
 
 We detect gravity signal from subsurface Grand Canyon-sized features on the Moon. I use Markov chain Monte Carlo
 to constrain the depth, thickness, and widths of the structures.
