@@ -36,7 +36,7 @@ Analysis of the lunar gravity dataset reveals anomalous structures likely from s
 ### Automated Pattern Recognition Algorithm for Lunar Gravity Data
 
 The traditional way of identifying meteor impact sites (craters) is to count them by hand. I designed
-and implemented an algorithm that identifies crater patterns in lunar gravity maps, enabling a 500% increase
+and implemented an algorithm that identifies crater patterns in lunar gravity maps, enabling >= 50% increase
 in efficiency.
 
 <img src="/images/topo_comp_csfd_demo2.png" style="width: 99%" />
