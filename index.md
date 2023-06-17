@@ -40,12 +40,13 @@ in efficiency.
 
 <img src="/images/topo_comp_csfd_demo2.png" style="width: 99%" />
 
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks)
-[![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-Proficient-blue.svg)]()
+[![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-purple.svg)]()
 [![Algorithm Development](https://img.shields.io/badge/Algorithm_Development-blue.svg)]()
 [![Pattern Recognition](https://img.shields.io/badge/Pattern_Recognition-green.svg)]()
 [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-red.svg)]()
-![Automated Detection](https://img.shields.io/badge/Automated_Detection-orange.svg)
+[![Automated Detection](https://img.shields.io/badge/Automated_Detection-orange.svg)]()
+[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks)]()
+
 
 <a href="https://www.hou.usra.edu/meetings/lpsc2022/pdf/1611.pdf">Conference; Paper under submission</a> 
 <br>
@@ -66,12 +67,12 @@ and constrain what minerals are present.
 </p>
 
 
+![Model Validation](https://img.shields.io/badge/Model%20Validation-%2331B8FF?style=flat-square&logo=Checkmarx&logoColor=white)
+![Data Pipeline Design](https://img.shields.io/badge/Data%20Pipeline%20Design-%23FF7C37?style=flat-square&logo=ApacheAirflow&logoColor=white)
+![Algorithm Development](https://img.shields.io/badge/Algorithm%20Development-%2303569B?style=flat-square&logo=Algorithms&logoColor=white)
+![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional%20Collaboration-%230082C6?style=flat-square&logo=MicrosoftTeams&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23017ACC?style=flat-square&logo=Mathworks&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-%2349457E?style=flat-square&logo=Perl&logoColor=white)
-![Model Validation](https://img.shields.io/badge/Model%20Validation-%2331B8FF?style=flat-square&logo=Checkmarx&logoColor=white)
-![Algorithm Development](https://img.shields.io/badge/Algorithm%20Development-%2303569B?style=flat-square&logo=Algorithms&logoColor=white)
-![Data Pipeline Design](https://img.shields.io/badge/Data%20Pipeline%20Design-%23FF7C37?style=flat-square&logo=ApacheAirflow&logoColor=white)
-![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional%20Collaboration-%230082C6?style=flat-square&logo=MicrosoftTeams&logoColor=white)
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103518305396">Publication 1</a> 
 <br>
