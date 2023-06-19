@@ -102,7 +102,7 @@ As part of a NASA collaboration, I designed and developed "new_cv24," a novel GU
 ### Numerical Modeling of Heat and Topographical Diffusion on the Moon
 
 Analysis of the lunar gravity data shows a lack of craters in the nearside. We model heat and topographical diffusion
-to the farside highlands as hypothetical processes that could have resulted in the deficit. The results implicate the potential thermal erasure of a structure at an scale (500 km width x 3 km height) that is unheard of in modern science.
+to the farside highlands as hypothetical processes that could have resulted in the deficit. The results implicate the potential thermal erasure of a structure at an scale (500 km width x 3 km height) that is unheard of in the Solar System.
 
 <img src="/images/thermal_annealing.png" style="width: 99%" />
 
