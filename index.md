@@ -35,7 +35,7 @@ Analysis of the lunar gravity dataset reveals anomalous signal originating from 
 
 ### Automated Pattern Recognition Algorithm for Lunar Gravity Data
 
-The traditional way of identifying meteor impact sites (craters) is to count them by hand. I designed, implemented, and optimized an algorithm that identifies crater patterns in lunar gravity maps, enabling an over 50% increase
+The traditional way of identifying meteor impact sites (craters) is to count them by hand. I designed, implemented, and optimized an algorithm using A/B testing that automatically identifies craters in lunar gravity maps, enabling an over 50% increase
 in the efficiency of data analysis.
 
 <img src="/images/topo_comp_csfd_demo2.png" style="width: 99%" />
@@ -102,7 +102,7 @@ As part of a NASA collaboration, I designed and developed "new_cv24," a novel GU
 ### Numerical Modeling of Heat and Topographical Diffusion on the Moon
 
 Analysis of the lunar gravity data shows a lack of craters in the nearside. We model heat and topographical diffusion
-to the farside highlands as hypothetical processes that could have resulted in the deficit.
+to the farside highlands as hypothetical processes that could have resulted in the deficit. The results implicate the potential thermal erasure of an enormous structure at an scale (500 km width x 3 km height) that is unheard of in modern science.
 
 <img src="/images/thermal_annealing.png" style="width: 99%" />
 
