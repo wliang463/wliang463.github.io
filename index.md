@@ -56,7 +56,7 @@ in the efficiency of data analysis.
 
 ### Photometric Analysis of Mars Rover Image Data
 
-I significantly enhanced a multi-platform data/image processing pipeline as part a NASA collaboration, using a variety of software languages. This pipeline, capable of parallelized image alignment and sophisticated processing of raw images to generate terrain and solar angle maps, allows for the analysis of martian rover images spanning multiple martian years. This pipeline has consistently served NASA's data processing needs, remaining in active use for over seven years.
+I significantly enhanced a multi-platform data/image processing pipeline as part a NASA collaboration, using a variety of software languages. This pipeline, capable of parallelized image alignment and sophisticated processing of raw images to generate terrain and solar angle maps, facilitates the analysis of martian rover images spanning multiple martian years. This pipeline has consistently served NASA's data processing needs, remaining in active use for over seven years.
 
 <p align="center">
   <img src="/images/mars_surface.jpg" style="width: 49%" />
