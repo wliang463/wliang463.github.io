@@ -10,7 +10,7 @@ Below is a compilation of highlights from my **8 years of data analysis** using
 
 ### MCMC Analysis of Anomalies in Lunar Gravity Data
 
-Analysis of the lunar gravity dataset reveals anomalous signal originating from subsurface Grand Canyon-sized structures. I use Markov chain Monte Carlo to constrain the depth, thickness, and widths of the structures.
+Analysis of the lunar gravity dataset reveals anomalous signal originating from subsurface Grand Canyon-sized structures. I use Markov chain Monte Carlo to constrain the depth, thickness, and widths of the structures. The results filled a crucial gap in our understandings of lunar evolution.
 
 <img src="/images/moon_gravity_map.png" style="width: 99%" />
 <img src="/images/earth_gravity.png" style="width: 99%" /> 
@@ -36,7 +36,7 @@ Analysis of the lunar gravity dataset reveals anomalous signal originating from 
 ### Automated Pattern Recognition Algorithm for Lunar Gravity Data
 
 The traditional way of identifying meteor impact sites (craters) is to count them by hand. I designed, implemented, and optimized an algorithm that identifies crater patterns in lunar gravity maps, enabling an over 50% increase
-in efficiency.
+in the efficiency of data analysis.
 
 <img src="/images/topo_comp_csfd_demo2.png" style="width: 99%" />
 
@@ -57,7 +57,7 @@ in efficiency.
 ### Photometric Analysis of Mars Rover Image Data
 
 Some minerals (for example diamond vs rust) are more/less bright than other minerals when you shine a light on it. 
-As part of a NASA collaborative effort, I analyzed how the martian surface reflected different amounts of light using images of the surface taken at different times in day (for example 9am vs 5pm). With this, we are able to determine the physical properties of the surface,and constrain what minerals are present.
+As part of a NASA collaborative effort, I analyzed how the martian surface reflected different amounts of light using images of the surface taken at different times in day (for example 9am vs 5pm). With this, we are able to determine the physical properties of the surface,and constrain what minerals are present on the martian surface.
 
 <p align="center">
   <img src="/images/mars_surface.jpg" style="width: 49%" />
@@ -84,7 +84,7 @@ As part of a NASA collaborative effort, I analyzed how the martian surface refle
 
 ### Graphical User Interface (GUI) Development to Analyze Mars Rover Data
 
-As part of a NASA collaboration I developed a new GUI software "new_cv24" that would allow a user to load in Photometry QUBs, an extensive data file comprised of ~50 Mars rover images along with coordinate maps.  The GUI enables users to overlay different images in the QUB, select regions of interest on the images, and extract information from all 50 images within the QUB into an ASCII file for further data analysis.
+In a pivotal NASA collaboration, I designed and developed "new_cv24," a novel GUI software capable of loading and processing Photometry QUBs – extensive data files consisting of ~60 Mars rover images. The software empowers users to overlay images, select regions of interest, and assemble information from all images into an ASCII file, greatly enhancing data analysis capabilities. This not only expedited various data analysis subroutines into a singular, streamlined interface, but also significantly improved user operational efficiency.
 
 <img src="/images/new_cv24.png" style="width: 99%" />
 
