@@ -56,8 +56,7 @@ in the efficiency of data analysis.
 
 ### Photometric Analysis of Mars Rover Image Data
 
-Some minerals (for example diamond vs rust) are more/less bright than other minerals when you shine a light on it. 
-As part of a NASA collaborative effort, I analyzed how the martian surface reflected different amounts of light using images of the surface taken at different times in day (for example 9am vs 5pm). With this, we are able to determine the physical properties of the surface,and constrain what minerals are present on the martian surface.
+I significantly enhanced a multi-platform data/image processing pipeline as part a NASA collaboration, using a variety of software languages. This pipeline, capable of parallelized image alignment and sophisticated processing of raw images to generate terrain and solar angle maps, allows for the analysis of martian rover images spanning multiple martian years. This pipeline has consistently served NASA's data processing needs, remaining in active use for over seven years.
 
 <p align="center">
   <img src="/images/mars_surface.jpg" style="width: 49%" />
@@ -84,7 +83,7 @@ As part of a NASA collaborative effort, I analyzed how the martian surface refle
 
 ### Graphical User Interface (GUI) Development to Analyze Mars Rover Data
 
-In a pivotal NASA collaboration, I designed and developed "new_cv24," a novel GUI software capable of loading and processing Photometry QUBs – extensive data files consisting of ~60 Mars rover images. The software empowers users to overlay images, select regions of interest, and assemble information from all images into an ASCII file, greatly enhancing data analysis capabilities. This not only expedited various data analysis subroutines into a singular, streamlined interface, but also significantly improved user operational efficiency.
+As part of a NASA collaboration, I designed and developed "new_cv24," a novel GUI software capable of loading and processing Photometry QUBs – extensive data files consisting of ~60 Mars rover images. The software empowers users to overlay images, select regions of interest, and assemble information from all images into an ASCII file, greatly enhancing data analysis capabilities. This not only expedited various data analysis subroutines into a singular, streamlined interface, but also significantly improved user operational efficiency.
 
 <img src="/images/new_cv24.png" style="width: 99%" />
 
