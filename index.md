@@ -67,14 +67,6 @@ I significantly (five-fold) enhanced a multi-platform data/image processing pipe
   <img src="/images/sso_plot.png" style="width: 49%" /> 
 </p>
 
-
-![Model Validation](https://img.shields.io/badge/Model%20Validation-%2331B8FF?style=flat-square&logo=Checkmarx&logoColor=white)
-![Data Pipeline Design](https://img.shields.io/badge/Data%20Pipeline%20Design-%23FF7C37?style=flat-square&logo=ApacheAirflow&logoColor=white)
-![Algorithm Development](https://img.shields.io/badge/Algorithm%20Development-%2303569B?style=flat-square&logo=Algorithms&logoColor=white)
-![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional%20Collaboration-%230082C6?style=flat-square&logo=MicrosoftTeams&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23017ACC?style=flat-square&logo=Mathworks&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-%2349457E?style=flat-square&logo=Perl&logoColor=white)
-
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-ff5722?style=flat-square&logo=LightGBM&logoColor=white)
 ![Nonlinear Regression](https://img.shields.io/badge/Nonlinear_Regression-3f51b5?style=flat-square&logo=Graphana&logoColor=white)
 ![Model Validation](https://img.shields.io/badge/Model%20Validation-%2331B8FF?style=flat-square&logo=Checkmarx&logoColor=white)
