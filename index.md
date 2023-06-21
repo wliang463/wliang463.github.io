@@ -24,6 +24,17 @@ Analysis of the lunar gravity dataset reveals anomalous signal originating from 
 ![Markov Chain Monte Carlo](https://img.shields.io/badge/MCMC-68b030?style=flat-square)
 ![Time-Series Analysis](https://img.shields.io/badge/Time--Series_Analysis-ff69b4?style=flat-square)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-8CAAE6?style=flat-square&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![Markov Chain Monte Carlo](https://img.shields.io/badge/MCMC-68b030?style=flat-square&logoColor=white)
+![Time-Series Analysis](https://img.shields.io/badge/Time--Series_Analysis-ff69b4?style=flat-square&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-ff5722?style=flat-square&logoColor=white)
+![Nonlinear Regression](https://img.shields.io/badge/Nonlinear_Regression-3f51b5?style=flat-square&logoColor=white)
+
+
 <a href="https://wliang463.github.io/lunar_data_analysis/Analysis_of_Lunar_Gravity_Dataset.html">Demo Jupyter Notebook</a> 
 <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103522000951">Publication</a> 
