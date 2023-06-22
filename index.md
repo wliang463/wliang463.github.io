@@ -10,7 +10,7 @@ Below is a compilation of highlights from my **8 years of data analysis** using
 
 ### MCMC Analysis of Anomalies in Lunar Gravity Data
 
-Analysis of the lunar gravity dataset reveals anomalous signal originating from subsurface Grand Canyon-sized structures. I used Markov chain Monte Carlo methods, Bayesian statistics, and time-series analysis to constrain the depth, thickness, and widths of the structures. The results filled a crucial gap in our understandings of lunar evolution.
+Analysis of the lunar gravity dataset reveals anomalous signal originating from subsurface Grand Canyon-sized structures. I used nonlinear regression, Bayesian statistics (Markov chain Monte Carlo), and time-series analysis to constrain the depth, thickness, and widths of the structures. The results filled a crucial gap in our understandings of lunar evolution.
 
 <img src="/images/moon_gravity_map.png" style="width: 99%" />
 <img src="/images/earth_gravity.png" style="width: 99%" /> 
@@ -60,7 +60,7 @@ in the efficiency of data analysis.
 
 ### Photometric Analysis of Mars Rover Image Data
 
-I significantly (five-fold) enhanced a multi-platform data/image processing pipeline as part a NASA collaboration, using a variety of software languages. This pipeline, capable of parallelized image alignment and sophisticated processing of raw images to generate terrain and solar angle maps, facilitates the analysis of martian rover images spanning multiple martian years. The results of our analysis greatly constrained the mineral composition of the martian surface. This pipeline has consistently served NASA's data processing needs, remaining in active use for over seven years.
+I significantly (five-fold) enhanced an ETL multi-platform data/image processing pipeline as part a NASA collaboration, using a variety of software languages. This pipeline, capable of parallelized image alignment and sophisticated processing of raw images to generate terrain and solar angle maps, facilitates the analysis of martian rover images spanning multiple martian years. The results of our analysis, using nonlinear regression methods, greatly constrained the mineral composition of the martian surface. This pipeline has consistently served NASA's data processing needs, remaining in active use for over seven years.
 
 <p align="center">
   <img src="/images/mars_surface.jpg" style="width: 49%" />
@@ -75,6 +75,16 @@ I significantly (five-fold) enhanced a multi-platform data/image processing pipe
 ![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional%20Collaboration-%230082C6?style=flat-square&logo=MicrosoftTeams&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23017ACC?style=flat-square&logo=Mathworks&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-%2349457E?style=flat-square&logo=Perl&logoColor=white)
+
+![ETL](https://img.shields.io/badge/ETL-4CAF50?style=flat-square&logo=ApacheKafka&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-ff5722?style=flat-square&logo=LightGBM&logoColor=white)
+![Nonlinear Regression](https://img.shields.io/badge/Nonlinear_Regression-3f51b5?style=flat-square&logo=Graphana&logoColor=white)
+![Model Validation](https://img.shields.io/badge/Model_Validation-31B8FF?style=flat-square&logo=Checkmarx&logoColor=white)
+![Data Pipeline Design](https://img.shields.io/badge/Data_Pipeline_Design-FF7C37?style=flat-square&logo=ApacheAirflow&logoColor=white)
+![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional_Collaboration-0082C6?style=flat-square&logo=MicrosoftTeams&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-017ACC?style=flat-square&logo=Mathworks&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-49457E?style=flat-square&logo=Perl&logoColor=white)
+
 
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103518305396">Publication 1</a> 
