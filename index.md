@@ -60,7 +60,7 @@ in the efficiency of data analysis.
 
 ### Photometric Analysis of Mars Rover Image Data
 
-I significantly (five-fold) enhanced an ETL multi-platform data/image processing pipeline as part a NASA collaboration, using a variety of software languages. This pipeline, capable of parallelized image alignment and sophisticated processing of raw images to generate terrain and solar angle maps, facilitates the analysis of martian rover images spanning multiple martian years. The results of our analysis, using nonlinear regression methods, greatly constrained the mineral composition of the martian surface. This pipeline has consistently served NASA's data processing needs, remaining in active use for over seven years.
+I significantly (five-fold) enhanced an ETL multi-platform data/image processing pipeline as part a NASA collaboration, using a variety of software languages. This pipeline, capable of parallelized image alignment and sophisticated processing of raw images to generate terrain and solar angle maps, facilitates the analysis of martian rover images spanning multiple martian years. The results of our analysis, using nonlinear regression methods, greatly constrained the mineral composition of the martian surface. This pipeline has consistently served NASA's data processing needs, remaining in active use for over 7 years.
 
 <p align="center">
   <img src="/images/mars_surface.jpg" style="width: 49%" />
