@@ -1,12 +1,24 @@
-## Data Science Portfolio
+## Data Science and Machine Learning Portfolio
 
-Below is a compilation of highlights from my **8 years of data analysis** using
+Below is a compilation of highlights from my **8 years of data analysis and machine learning** using
 <br>
 -Lunar GRAIL gravity+topography dataset (17 million data points)
 <br>
 -Mars Rover dataset (1000+ 1200x1200 images)
 
 ---
+
+### Crater Detection using Deep Learning/Neural Networks and AWS (S3, SageMaker)
+
+A study of using deep learning to detect craters within the lunar gravity dataset using the Amazon AWS environment. Transfer learning using the MobileNetV2 learning weights was utilized. The resulting accuracy of crater prediction was 91%, which is an improvement over the A/B algorithm described below by 5%. As only one instance of training was needed, the subsequent crater predictions is much faster than the A/B algorithm, resulting a further 50% increase in the efficiency of data analysis.
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=Amazon-SageMaker&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-006400?style=flat-square&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-8A2BE2?style=flat-square&logoColor=white)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-DC143C?style=flat-square&logoColor=white)
+![Convolutional Neural Network (CNN)](https://img.shields.io/badge/Convolutional_Neural_Network_(CNN)-00008B?style=flat-square&logoColor=white)
 
 ### MCMC Analysis of Anomalies in Lunar Gravity Data
 
