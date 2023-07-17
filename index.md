@@ -10,7 +10,7 @@ Below is a compilation of highlights from my **8 years of data analysis and mach
 
 ### Crater Detection using Deep Learning/Neural Networks and AWS (S3, SageMaker)
 
-A study of using deep learning to detect craters within the lunar gravity dataset using the Amazon AWS environment. Transfer learning using the MobileNetV2 learning weights was utilized. The resulting accuracy of crater prediction was 91%, which is an improvement over the A/B algorithm described below by 5%. As only one instance of training was needed, the subsequent crater predictions is much faster than the A/B algorithm, resulting a further 50% increase in the efficiency of data analysis.
+A study of using deep learning to detect craters within the lunar gravity dataset using the Amazon AWS environment. Transfer learning using the MobileNetV2 learning weights was utilized. The resulting accuracy of crater prediction was 91%, which is an improvement over the A/B algorithm described below by 5%. As only one instance of training was needed, the subsequent crater predictions is much faster than the A/B algorithm, resulting in a further 50% increase in the efficiency of data analysis.
 
 <p align="center">
   <img src="/images/output_9_1.png" style="width: 49%" />
