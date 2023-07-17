@@ -25,6 +25,10 @@ A study of using deep learning to detect craters within the lunar gravity datase
 ![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-DC143C?style=flat-square&logoColor=white)
 ![Convolutional Neural Network (CNN)](https://img.shields.io/badge/Convolutional_Neural_Network_(CNN)-00008B?style=flat-square&logoColor=white)
 
+
+
+<a href="https://github.com/wliang463/crater_detection/blob/main/crater_detection.md">Markdown Code</a> 
+
 ### MCMC Analysis of Anomalies in Lunar Gravity Data
 
 Analysis of the lunar gravity dataset reveals anomalous signal originating from subsurface Grand Canyon-sized structures. I used machine learning (nonlinear regression), Bayesian statistics (Markov chain Monte Carlo), and time-series analysis to constrain the depth, thickness, and widths of the structures. Our analysis resulted in an increase of 60% in model precision and peer-reviewed publications in high-impact journals.
