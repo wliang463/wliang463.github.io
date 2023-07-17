@@ -14,7 +14,7 @@ A study of using deep learning to detect craters within the lunar gravity datase
 
 <p align="center">
   <img src="/images/output_9_1.png" style="width: 49%" />
-  <img src="/images/output_24_1.png" style="width: 49%" /> 
+  <img src="/images/output_24_0.png" style="width: 49%" /> 
 </p>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
