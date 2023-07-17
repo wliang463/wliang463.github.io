@@ -18,10 +18,10 @@ A study of using deep learning to detect craters within the lunar gravity datase
 </p>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=Amazon-SageMaker&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-006400?style=flat-square&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-8A2BE2?style=flat-square&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=Amazon-SageMaker&logoColor=white)
 ![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-DC143C?style=flat-square&logoColor=white)
 ![Convolutional Neural Network (CNN)](https://img.shields.io/badge/Convolutional_Neural_Network_(CNN)-00008B?style=flat-square&logoColor=white)
 
