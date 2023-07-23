@@ -24,6 +24,13 @@ significant variations in crater depth due to factors such as age and terrain.
   <img src="/images/linear_regression_results.png" style="width: 49%" /> 
 </p>
 
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-2BAF2B?style=flat-square&logoColor=white)
+![Linear Regression](https://img.shields.io/badge/Linear_Regression-FF7C2B?style=flat-square&logoColor=white)
+![Decision Trees](https://img.shields.io/badge/Decision_Trees-181717?style=flat-square&logo=CodeSandbox&logoColor=white)
+![Random Forests](https://img.shields.io/badge/Random_Forests-006400?style=flat-square&logo=CodeSandbox&logoColor=white)
+![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-DC143C?style=flat-square&logo=CodeSandbox&logoColor=white)
 
 <a href="https://github.com/wliang463/crater_depth_prediction">Project Code</a> 
 <br>
