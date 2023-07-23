@@ -20,6 +20,7 @@ distributable application. The model achieved a R^2 of 0.7 as well as a RMSE of 
 significant variations in crater depth due to factors such as age and terrain.
 
 <a href="https://github.com/wliang463/crater_depth_prediction">Project Code</a> 
+<br>
 <a href="https://hub.docker.com/repository/docker/weigangliang/crater_depth_predictions/general">Docker Image</a> 
 
 
