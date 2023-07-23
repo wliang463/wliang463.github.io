@@ -20,7 +20,7 @@ distributable application. The model achieved a R^2 of 0.7 as well as a RMSE of 
 significant variations in crater depth due to factors such as age and terrain.
 
 <p align="center">
-  <img src="/images/meteor_crater.jpeg" style="width: 49%" />
+  <img src="/images/meteor_crater2.jpeg" style="width: 49%" />
   <img src="/images/linear_regression_results.png" style="width: 49%" /> 
 </p>
 
