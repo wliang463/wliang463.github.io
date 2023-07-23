@@ -19,6 +19,12 @@ which machine learning is conducted. After the project is finalized, I used Dock
 distributable application. The model achieved a R^2 of 0.7 as well as a RMSE of 0.4 log(m), which is very reasonable considering the
 significant variations in crater depth due to factors such as age and terrain.
 
+<p align="center">
+  <img src="/images/meteor_crater.jpeg" style="width: 49%" />
+  <img src="/images/linear_regression_results.png" style="width: 49%" /> 
+</p>
+
+
 <a href="https://github.com/wliang463/crater_depth_prediction">Project Code</a> 
 <br>
 <a href="https://hub.docker.com/repository/docker/weigangliang/crater_depth_predictions/general">Docker Image</a> 
