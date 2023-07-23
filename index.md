@@ -4,9 +4,26 @@ Below is a compilation of highlights from my **8 years of data analysis and mach
 <br>
 -Lunar GRAIL gravity+topography dataset (17 million data points)
 <br>
+-Lunar crater catalog (10 million data points)
+<br>
 -Mars Rover dataset (1000+ 1200x1200 images)
 
 ---
+
+### Crater Depth Prediction using Supervised Learning, Apache Spark, and Docker
+
+The Moon has countless (> 1 million) craters whose depths vary significantly. Here, I build machine learning models that
+incorporate linear regression, decision trees, random forests, and gradient boosting to predict the depth of a lunar crater
+if the diameter, as well as the location of the crater, are known. In this project, I use Apache Spark as the main base from
+which machine learning is conducted. After the project is finalized, I used Docker to consolidate the pipeline into a 
+distributable application. The model achieved a R^2 of 0.7 as well as a RMSE of 0.4 log(m), which is very reasonable considering the
+significant variations in crater depth due to factors such as age and terrain.
+
+<a href="https://github.com/wliang463/crater_depth_prediction">Project Code</a> 
+<a href="https://hub.docker.com/repository/docker/weigangliang/crater_depth_predictions/general">Docker Image</a> 
+
+
+
 
 ### Crater Detection using Deep Learning/Neural Networks and AWS (S3, SageMaker)
 
