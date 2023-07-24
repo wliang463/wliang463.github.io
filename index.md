@@ -16,7 +16,7 @@ The Moon has countless (> 1 million) craters whose depths vary significantly. He
 incorporate linear regression, decision trees, random forests, and gradient boosting to predict the depth of a lunar crater
 if the diameter, as well as the location of the crater, are known. In this project, I use Apache Spark as the main base from
 which machine learning is conducted. After the project is finalized, I used Docker to consolidate the pipeline into a 
-distributable application. The model achieved a R^2 of 0.7 as well as a RMSE of 0.4 log(m), which is reasonable and shows that the model is able to reliably estimate the depths of lunar craters.
+distributable application. The model achieved a reasonable R^2 of 0.7 as well as a RMSE of 0.4 log(m), showing the reliability of the model in estimating the depths of lunar craters.
 
 <p align="center">
   <img src="/images/meteor_crater2.jpg" style="width: 49%" />
