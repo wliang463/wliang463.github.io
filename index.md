@@ -12,7 +12,7 @@ Below is a compilation of highlights from my **8 years of data analysis and mach
 
 ### Crater Depth Prediction using Supervised Learning, Apache Spark, and Docker
 
-The Moon has countless (> 1 million) craters whose depths vary significantly. Here, I build machine learning models that
+The Moon has countless craters (left image) whose depths vary significantly. Here, I build machine learning models that
 incorporate linear regression, decision trees, random forests, and gradient boosting to predict the depth of a lunar crater
 if the diameter, as well as the location of the crater, are known. In this project, I use Apache Spark as the main base from
 which machine learning is conducted. After the project is finalized, I used Docker to consolidate the pipeline into a 
