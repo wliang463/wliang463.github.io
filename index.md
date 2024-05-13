@@ -1,12 +1,9 @@
 ## Data Science and Machine Learning Portfolio
 
-Below is a compilation of highlights from my **9 years of data analysis and machine learning** using
+Below is a compilation of highlights from my **9 years of data analysis and machine learning**,
 <br>
 some of which have been featured in the media (NBC, BBC, radio)
-<br>
--Lunar crater catalog (10 million data points)
-<br>
--Mars Rover dataset (1000+ 1200x1200 images)
+
 
 ---
 
