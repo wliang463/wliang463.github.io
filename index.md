@@ -10,7 +10,7 @@ some of which have been featured in the media (<a href="https://www.nbcrightnow.
 
 ### MCMC Analysis of Anomalies in Lunar Gravity Data
 
-Analysis of the lunar gravity dataset reveals anomalous signal originating from subsurface Grand Canyon-sized structures. I used Bayesian statistics and Markov chain Monte Carlo to constrain the depth, thickness, and widths of the structures. Our analysis resulted in an increase of 60% in model precision and peer-reviewed publications in high-impact journals, as well as widespread media coverage.
+Analysis of the lunar gravity dataset reveals anomalous signal originating from subsurface Grand Canyon-sized structures. I used Bayesian statistics and Markov chain Monte Carlo (MCMC) to constrain the depth, thickness, and widths of the structures. Our analysis resulted in an increase of 60% in model precision and peer-reviewed publications in high-impact journals, as well as widespread media coverage.
 
 <img src="/images/moon_gravity_map.png" style="width: 99%" />
 <img src="/images/earth_gravity.png" style="width: 99%" /> 
