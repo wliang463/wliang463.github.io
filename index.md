@@ -1,6 +1,6 @@
 ## Data Science and Machine Learning Portfolio
 
-Below is a compilation of highlights from my **9 years of data analysis and machine learning**, some of which have been featured in the media (<a href="https://www.nbcrightnow.com/national/how-the-moon-literally-turned-itself-inside-out/article_e0dd4d2a-3a2d-523e-ab2f-6e979ccb4a4d.html">NBC</a>, <a href="https://www.bbc.co.uk/newsround/68768646#:~:text=But%20researchers%20now%20think%20they,as%20Earth%20or%20Mars%20developed.">BBC</a>, <a href="https://www.kvoi.com/onair/jump-in-tucson">radio</a>)
+Below is a compilation of results and highlights from my **9 years of data analysis and machine learning**, some of which have been featured in the media (<a href="https://www.nbcrightnow.com/national/how-the-moon-literally-turned-itself-inside-out/article_e0dd4d2a-3a2d-523e-ab2f-6e979ccb4a4d.html">NBC</a>, <a href="https://www.bbc.co.uk/newsround/68768646#:~:text=But%20researchers%20now%20think%20they,as%20Earth%20or%20Mars%20developed.">BBC</a>, <a href="https://www.kvoi.com/onair/jump-in-tucson">radio</a>)
 
 
 ---
