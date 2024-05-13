@@ -16,21 +16,18 @@ Analysis of the lunar gravity dataset reveals anomalous signal originating from 
 <img src="/images/earth_gravity.png" style="width: 99%" /> 
 <img src="/images/mcmc_error.png" style="width: 85%" /> 
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-ff5722?style=flat-square&logoColor=white)
-![Nonlinear Regression](https://img.shields.io/badge/Nonlinear_Regression-3f51b5?style=flat-square&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-8CAAE6?style=flat-square&logo=matplotlib&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 ![Markov Chain Monte Carlo](https://img.shields.io/badge/MCMC-68b030?style=flat-square&logoColor=white)
-![Time-Series Analysis](https://img.shields.io/badge/Time--Series_Analysis-ff69b4?style=flat-square&logoColor=white)
 
 
 
-<a href="https://www.nature.com/articles/s41561-024-01408-2">Publication in Nature Geoscience</a> 
+<a href="https://www.nature.com/articles/s41561-024-01408-2">Publication 1 (Nature Geoscience)</a> 
 <br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103522000951">Publication in Icarus</a> 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103522000951">Publication 2 (Icarus)</a> 
 <br>
 
 
@@ -51,7 +48,7 @@ in the efficiency of data analysis.
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks)]()
 
 
-<a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023JE007876">Publication in JGR: Planets</a> 
+<a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023JE007876">Publication (JGR: Planets)</a> 
 <br>
 <a href="https://github.com/wliang463/missing_craters_rings">Github Repository</a> 
 
@@ -167,6 +164,5 @@ to the farside highlands as hypothetical processes that could have resulted in t
 ![Numerical Modeling](https://img.shields.io/badge/Numerical_Modeling-%235012B1?style=flat-square&logoColor=white)
 ![Data Manipulation](https://img.shields.io/badge/Data_Manipulation-%23A30000?style=flat-square&logoColor=white)
 
-<a href="https://www.hou.usra.edu/meetings/lpsc2022/pdf/1611.pdf">Conference; Paper under submission</a> 
 <br>
 <a href="https://github.com/wliang463/missing_craters_rings">Github Repository</a> 
