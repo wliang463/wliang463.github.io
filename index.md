@@ -10,7 +10,7 @@ some of which have been featured in the media (<a href="https://www.nbcrightnow.
 
 ### MCMC Analysis of Anomalies in Lunar Gravity Data
 
-Analysis of the lunar gravity dataset reveals anomalous signal originating from subsurface Grand Canyon-sized structures. I used machine learning (nonlinear regression), Bayesian statistics (Markov chain Monte Carlo), and time-series analysis to constrain the depth, thickness, and widths of the structures. Our analysis resulted in an increase of 60% in model precision and peer-reviewed publications in high-impact journals.
+Analysis of the lunar gravity dataset reveals anomalous signal originating from subsurface Grand Canyon-sized structures. I used machine learning (nonlinear regression), Bayesian statistics (Markov chain Monte Carlo), and time-series analysis to constrain the depth, thickness, and widths of the structures. Our analysis resulted in an increase of 60% in model precision and peer-reviewed publications in high-impact journals, as well as widespread media coverage.
 
 <img src="/images/moon_gravity_map.png" style="width: 99%" />
 <img src="/images/earth_gravity.png" style="width: 99%" /> 
@@ -51,7 +51,7 @@ in the efficiency of data analysis.
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks)]()
 
 
-<a href="https://www.hou.usra.edu/meetings/lpsc2022/pdf/1611.pdf">Conference; Paper under submission</a> 
+<a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023JE007876">Publication in JGR: Planets</a> 
 <br>
 <a href="https://github.com/wliang463/missing_craters_rings">Github Repository</a> 
 
