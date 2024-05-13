@@ -2,7 +2,8 @@
 
 Below is a compilation of highlights from my **9 years of data analysis and machine learning**,
 <br>
-some of which have been featured in the media (NBC, BBC, radio)
+some of which have been featured in the media (<a href="https://news.arizona.edu/news/how-moon-turned-itself-inside-out">NBC</a>
+, BBC, radio)
 
 
 ---
