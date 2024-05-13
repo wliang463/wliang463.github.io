@@ -1,63 +1,14 @@
 ## Data Science and Machine Learning Portfolio
 
-Below is a compilation of highlights from my **8 years of data analysis and machine learning** using
+Below is a compilation of highlights from my **9 years of data analysis and machine learning** using
 <br>
--Lunar GRAIL gravity+topography dataset (17 million data points)
+some of which have been featured in the media (NBC, BBC, radio)
 <br>
 -Lunar crater catalog (10 million data points)
 <br>
 -Mars Rover dataset (1000+ 1200x1200 images)
 
 ---
-
-### Crater Depth Prediction using Supervised Learning, Apache Spark, and Docker
-
-The Moon has countless craters (left image) whose depths vary significantly. Here, I build machine learning models that
-incorporate linear regression, decision trees, random forests, and gradient boosting to predict the depth of a lunar crater
-if the diameter, as well as the location of the crater, are known. In this project, I use Apache Spark as the main base from
-which machine learning is conducted. After the project is finalized, I used Docker to consolidate the pipeline into a 
-distributable application. The model achieved a reasonable R^2 of 0.7 as well as a RMSE of 0.4 log(m), showing the reliability of the model in estimating the depths of lunar craters.
-
-<p align="center">
-  <img src="/images/meteor_crater2.jpg" style="width: 49%" />
-  <img src="/images/linear_regression_results.png" style="width: 49%" /> 
-</p>
-
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-2BAF2B?style=flat-square&logoColor=white)
-![Linear Regression](https://img.shields.io/badge/Linear_Regression-FF7C2B?style=flat-square&logoColor=white)
-![Decision Trees](https://img.shields.io/badge/Decision_Trees-181717?style=flat-square&logo=CodeSandbox&logoColor=white)
-![Random Forests](https://img.shields.io/badge/Random_Forests-006400?style=flat-square&logo=CodeSandbox&logoColor=white)
-![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-DC143C?style=flat-square&logo=CodeSandbox&logoColor=white)
-
-<a href="https://github.com/wliang463/crater_depth_prediction">Project Code</a> 
-<br>
-<a href="https://hub.docker.com/repository/docker/weigangliang/crater_depth_predictions/general">Docker Image</a> 
-
-
-
-
-### Crater Detection using Deep Learning/Neural Networks and AWS (S3, SageMaker)
-
-A study of using deep learning to detect craters within the lunar gravity dataset using the Amazon AWS environment. Transfer learning using the MobileNetV2 learning weights was utilized. The resulting accuracy of crater prediction was 91%, which is an improvement over the A/B algorithm described below by 5%. As only one instance of training was needed, the subsequent crater predictions is much faster than the A/B algorithm, resulting in a further 50% increase in the efficiency of data analysis.
-
-<p align="center">
-  <img src="/images/output_9_1.png" style="width: 49%" />
-  <img src="/images/output_24_0.png" style="width: 49%" /> 
-</p>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-006400?style=flat-square&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-8A2BE2?style=flat-square&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=Amazon-SageMaker&logoColor=white)
-![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-DC143C?style=flat-square&logoColor=white)
-![Convolutional Neural Network (CNN)](https://img.shields.io/badge/Convolutional_Neural_Network_(CNN)-00008B?style=flat-square&logoColor=white)
-
-
-
-<a href="https://github.com/wliang463/crater_detection/blob/main/crater_detection.md">Markdown Code</a> 
 
 ### MCMC Analysis of Anomalies in Lunar Gravity Data
 
@@ -156,6 +107,57 @@ As part of a NASA collaboration, I designed and developed "new_cv24," a novel GU
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103518305396">Unfortunately, the code has not yet been cleared for public release.</a> 
 
 ---
+
+### Crater Depth Prediction using Supervised Learning, Apache Spark, and Docker
+
+The Moon has countless craters (left image) whose depths vary significantly. Here, I build machine learning models that
+incorporate linear regression, decision trees, random forests, and gradient boosting to predict the depth of a lunar crater
+if the diameter, as well as the location of the crater, are known. In this project, I use Apache Spark as the main base from
+which machine learning is conducted. After the project is finalized, I used Docker to consolidate the pipeline into a 
+distributable application. The model achieved a reasonable R^2 of 0.7 as well as a RMSE of 0.4 log(m), showing the reliability of the model in estimating the depths of lunar craters.
+
+<p align="center">
+  <img src="/images/meteor_crater2.jpg" style="width: 49%" />
+  <img src="/images/linear_regression_results.png" style="width: 49%" /> 
+</p>
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-2BAF2B?style=flat-square&logoColor=white)
+![Linear Regression](https://img.shields.io/badge/Linear_Regression-FF7C2B?style=flat-square&logoColor=white)
+![Decision Trees](https://img.shields.io/badge/Decision_Trees-181717?style=flat-square&logo=CodeSandbox&logoColor=white)
+![Random Forests](https://img.shields.io/badge/Random_Forests-006400?style=flat-square&logo=CodeSandbox&logoColor=white)
+![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-DC143C?style=flat-square&logo=CodeSandbox&logoColor=white)
+
+<a href="https://github.com/wliang463/crater_depth_prediction">Project Code</a> 
+<br>
+<a href="https://hub.docker.com/repository/docker/weigangliang/crater_depth_predictions/general">Docker Image</a> 
+
+
+
+
+### Crater Detection using Deep Learning/Neural Networks and AWS (S3, SageMaker)
+
+A study of using deep learning to detect craters within the lunar gravity dataset using the Amazon AWS environment. Transfer learning using the MobileNetV2 learning weights was utilized. The resulting accuracy of crater prediction was 91%, which is an improvement over the A/B algorithm described below by 5%. As only one instance of training was needed, the subsequent crater predictions is much faster than the A/B algorithm, resulting in a further 50% increase in the efficiency of data analysis.
+
+<p align="center">
+  <img src="/images/output_9_1.png" style="width: 49%" />
+  <img src="/images/output_24_0.png" style="width: 49%" /> 
+</p>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-006400?style=flat-square&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-8A2BE2?style=flat-square&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=Amazon-SageMaker&logoColor=white)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-DC143C?style=flat-square&logoColor=white)
+![Convolutional Neural Network (CNN)](https://img.shields.io/badge/Convolutional_Neural_Network_(CNN)-00008B?style=flat-square&logoColor=white)
+
+
+
+<a href="https://github.com/wliang463/crater_detection/blob/main/crater_detection.md">Markdown Code</a> 
+
+--- 
 
 ### Numerical Modeling of Heat and Topographical Diffusion on the Moon
 
