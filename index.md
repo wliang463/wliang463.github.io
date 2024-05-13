@@ -28,11 +28,10 @@ Analysis of the lunar gravity dataset reveals anomalous signal originating from 
 
 
 
-<a href="https://wliang463.github.io/lunar_data_analysis/Analysis_of_Lunar_Gravity_Dataset.html">Demo Jupyter Notebook</a> 
+<a href="https://www.nature.com/articles/s41561-024-01408-2">Publication in Nature Geoscience</a> 
 <br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103522000951">Publication</a> 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103522000951">Publication in Icarus</a> 
 <br>
-<a href="https://github.com/wliang463/lunar_data_analysis">Github Repository</a> 
 
 
 ---
