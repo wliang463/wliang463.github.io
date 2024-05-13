@@ -2,8 +2,8 @@
 
 Below is a compilation of highlights from my **9 years of data analysis and machine learning**,
 <br>
-some of which have been featured in the media (<a href="https://news.arizona.edu/news/how-moon-turned-itself-inside-out">NBC</a>
-, BBC, radio)
+some of which have been featured in the media (<a href="https://www.nbcrightnow.com/national/how-the-moon-literally-turned-itself-inside-out/article_e0dd4d2a-3a2d-523e-ab2f-6e979ccb4a4d.html">NBC</a>
+, <a href="https://www.bbc.co.uk/newsround/68768646#:~:text=But%20researchers%20now%20think%20they,as%20Earth%20or%20Mars%20developed.">BBC</a>, <a href="http://serve.castfire.com/audio/4621565/4621565_2024-04-12-185805.128.mp3?rssID=645">radio</a>)
 
 
 ---
